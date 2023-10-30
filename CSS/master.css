@@ -3,8 +3,15 @@
     text-align: center;
 }
 
+.season { 
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 3%;
+    
+}
+
 .container {
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 .wrap {
